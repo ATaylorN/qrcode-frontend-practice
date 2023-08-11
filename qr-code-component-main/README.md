@@ -20,7 +20,7 @@ I enjoy frontend development, but feel that there's still so much for me to lear
 ### Screenshot
 
 The final results:
-![](/images/screenshot.png)
+![screenshot](/images/screenshot.png)
 
 ## My process
 
