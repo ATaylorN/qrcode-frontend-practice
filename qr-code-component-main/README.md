@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 I enjoy frontend development, but feel that there's still so much for me to learn. Using Frontend Mentor, I hope to continue to learn and drastically improve my skills. This is my first project with them.
